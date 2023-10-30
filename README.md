@@ -20,4 +20,6 @@ L'applicazione si interfaccia con un semplice database postgres e permette quind
 
 ### Architettura
 L'architettura sulla quale si basa è la seguente:
+```
 API layer <--> Service layer <--> Data Access Layer <--> Database
+```
